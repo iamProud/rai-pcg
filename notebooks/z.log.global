@@ -1,0 +1,33 @@
+** compiled at:     Mar  2 2023 15:05:01
+** execution start: 2023-03-02 15:29:39:260869
+util.cpp:initCmdLine:559(1) ** cmd line arguments: 'rai-pybind -python '
+util.cpp:initCmdLine:562(1) ** run path: '/home/basti/Dokumente/Bachelorarbeit/rai-pcg/notebooks'
+util.cpp:initCmdLine:563(1) ** rai path: '/home/basti/Dokumente/Bachelorarbeit/rai-pcg/rai-python/rai'
+graph.cpp:initParameters:1341(3) opening config file 'rai.cfg'
+graph.cpp:initParameters:1348(3)  - failed
+graph.cpp:initParameters:1354(3) opening base config file '/home/basti/Dokumente/Bachelorarbeit/rai-pcg/rai-python/rai/../local.cfg'
+graph.cpp:initParameters:1360(3)  - failed
+graph.cpp:initParameters:1364(1) ** parsed parameters:
+{python}
+
+util.cpp:cd_start:1016(3) entering path '/home/basti/Dokumente/Bachelorarbeit/rai-pcg/notebooks'
+util.cpp:cd_file:1024(3) entering path '../my-robotModels/cylRobo' from '/home/basti/Dokumente/Bachelorarbeit/rai-pcg/notebooks'
+util.cpp:getIs:1053(3) opening input file 'robo.g'
+util.cpp:cd_start:1016(3) ent** execution stop: 2023-03-02 16:12:26:196098
+** real time: 2601.15sec
+** CPU time: 21.4406
+tIs:1053(3) opening input file 'world.g'
+util.cpp:cd_start:1016(3) entering path '/home/basti/Dokumente/Bachelorarbeit/rai-pcg/my-robotModels/cylRobo'
+util.cpp:cd_start:1016(3) entering path '/home/basti/Dokumente/Bachelorarbeit/rai-pcg/notebooks'
+util.cpp:cd_start:1016(3) entering path '/home/basti/Dokumente/Bach** execution stop: 2023-03-02 16:12:26:287691
+** real time: 2723.78sec
+** CPU time: 23.4301
+obo' from '/home/basti/Dokumente/Bachelorarbeit/rai-pcg/notebooks'
+util.cpp:getIs:1053(3) opening input file 'robo.g'
+util.cpp:cd_start:1016(3) entering path '/home/basti/Dokumente/Bachelorarbeit/rai-pcg/my-robotModels/cylRobo'
+util.cpp:getIs:1053(3) opening input file 'world.g'
+util.cpp:cd_start:1016(3) entering path '/home/basti/Dokumente/Bachelorarbeit/rai-pcg/my-robotModels/cylRobo'
+util.cpp:cd_start:1016(3) entering path '/home/basti/Dokumente/Bachelorarbeit/rai-pcg/notebooks'
+** execution stop: 2023-03-02 16:12:26:413347
+** real time: 2567.15sec
+** CPU time: 2.39532
