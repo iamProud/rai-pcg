@@ -1,0 +1,3 @@
+[submodule "rai-python"]
+	path = rai-python
+	url = https://github.com/iamProud/rai-python.git
