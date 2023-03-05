@@ -1,3 +1,4 @@
 [submodule "rai-python"]
 	path = rai-python
-	url = https://github.com/iamProud/rai-python.git
+	url = git@github.com:iamProud/rai-python.git
+	branch = rai-config-save
