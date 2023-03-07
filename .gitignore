@@ -1,1 +1,6 @@
+# my-robotModels
+my-robotModels/**/z.*
+
+# Notebooks
 notebooks/.ipynb_checkpoints
+notebooks/z.log.global
